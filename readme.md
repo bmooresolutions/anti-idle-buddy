@@ -1,4 +1,4 @@
-Anti-Idle PowerShell Script
+###Anti-Idle PowerShell Script
 TL;DR
 Run this to keep your game from idling out while you stuff your face.
 
